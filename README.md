@@ -41,9 +41,9 @@ export ENV=$HOME/.ashrc
 
 - Run `ease of use` scripts to setup pre-requisites
 
-- - [All Scripts:](https://github.com/kojo-jeffery/scripts.git)
-- - - [Packages](https://github.com/kojo-jeffery/scripts/tree/main/proxmox/alpine-new-installs.sh)
-- - - [Docker & Docker-Compose](https://github.com/kojo-jeffery/scripts/tree/main/proxmox/alpine-docker-install.sh)
+- - [All Scripts:](https://github.com/clonne101/scripts.git)
+- - - [Packages](https://github.com/clonne101/scripts/tree/main/proxmox/alpine-new-installs.sh)
+- - - [Docker & Docker-Compose](https://github.com/clonne101/scripts/tree/main/proxmox/alpine-docker-install.sh)
 
 ---
 
